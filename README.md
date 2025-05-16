@@ -9,3 +9,8 @@ fleature flagas can be turn on/off specific to a region , lets say there are 30 
 also can be set turn on/off for a global (for all locations at once )
 
 design a highly scalable system desgin for this
+
+
+Solution link : 
+
+https://excalidraw.com/#json=yKCUWhuDIXkXbOQusCegJ,ccg90YIlc30i5VaUxj7Pig 
